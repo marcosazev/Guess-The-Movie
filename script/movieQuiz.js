@@ -254,6 +254,8 @@ start.onclick = () => {
 
   let perguntaSelecionada1 = randomQuestion(questionsArr);
   document.getElementById('startGame').style.display = "none";
+  document.getElementById('images').style.display = "inherit";
+  document.getElementById('headerGame').style.display = "flex";
   document.getElementById('test').style.display = "inherit";
   // document.getElementById("backgroundDiv").style.backgroundImage = "url('./sources/giphy.gif')";
 

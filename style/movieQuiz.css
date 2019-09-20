@@ -280,6 +280,10 @@
   footer a:hover {
     color: #FFC39E;
   }
+
+  .images{
+    display:none;
+  }
   .questionsImg{
     margin-top: 30px;
     margin-bottom: 30px;
@@ -290,6 +294,7 @@
 
 
 #headerGame{
+  display:none;
 height: 50px;
 display: flex;
 align-content: center;
