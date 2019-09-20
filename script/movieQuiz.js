@@ -9,7 +9,7 @@ const pergunta1 = {
 const pergunta2 = {
   pergunta: "Worked in Godfather as actor and director, respectively:",
   resposta_certa: "Marlon Brando e Copolla",
-  respostas_erradas: ["John Cassavetes e Polanski", "Steve McQueen e Copolla", "Johnny Depp e Tim Burton", "Marlon Brando e Polanski"],
+  respostas_erradas: ["Al Pacino e Polanski", "Steve McQueen e Copolla", "Johnny Depp e Tim Burton", "Marlon Brando e Polanski"],
   images: ["https://media.giphy.com/media/NZBpOC0ZD0aoU/giphy.gif","https://media.giphy.com/media/hiAX0TKTGyRTG/giphy.gif","https://media.giphy.com/media/ADze48TCg6Hao/giphy.gif"]
 };
 const pergunta3 = {
@@ -46,7 +46,7 @@ const pergunta7 = {
 const pergunta9 = {
   pergunta: "Quentin Tarantino directed...",
   resposta_certa: "Sin City and Kill Bill",
-  respostas_erradas: ["Django and Hair", "Inglorious Basterds and Hair", "Pulp Fictio and Titanic", "Kill Bill and 300"],
+  respostas_erradas: ["Django and Hair", "Kill Bill and Hair", "Pulp Fiction and Titanic", "Kill Bill and 300"],
   images: ["https://media.giphy.com/media/D8XHjpjl46xwc/giphy.gif","https://media.giphy.com/media/xTiTnBs0yRD4gOrowo/giphy.gif","https://media.giphy.com/media/3o7aTFlRixw0iZTsE8/giphy.gif"]
 };
 const pergunta10 = {
