@@ -39,7 +39,7 @@ const pergunta6 = {
 };
 const pergunta7 = {
   pergunta: "John Travolta worked in...",
-  resposta_certa: "Embalos de Sábado à noite e Hair Spray",
+  resposta_certa: "Greese and Hair Spray",
   respostas_erradas: ["Hair and Django", "Cats and Rent", "Django and Pulp Fiction", "Titanic and Pulp Fiction"],
   images: ["https://media.giphy.com/media/d4bn3nUNo6XpUZ4A/giphy.gif","https://media.giphy.com/media/l41Yh18f5TbiWHE0o/giphy.gif","https://media.giphy.com/media/l2YWhZx01Ie6Q3k7m/giphy.gif"]
 };
@@ -64,7 +64,7 @@ const pergunta11 = {
 const pergunta12 = {
   pergunta: "The movie 300 was about...",
   resposta_certa: "Persian and Greeks battle",
-  respostas_erradas: ["Greeks and Vikings battle", "a american love story movie", "none of the alternatives", "Vikings and Germans battle"],
+  respostas_erradas: ["Greeks and Vikings battle", "a drama story", "none of the alternatives", "Germans battle"],
   images: ["https://media.giphy.com/media/pKybtEYgE8ESc/giphy.gif","https://media.giphy.com/media/d43LZUOH0H9te/giphy.gif","https://media.giphy.com/media/Y747L7ratlUgo/giphy.gif"]
 };
 const pergunta13 = {
