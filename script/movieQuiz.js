@@ -66,7 +66,7 @@ const pergunta12 = {
   resposta_certa: "Persian and Greeks battle",
   respostas_erradas: ["Greeks and Vikings battle", "a american love story movie", "none of the alternatives", "Vikings and Germans battle"],
   images: ["https://media.giphy.com/media/pKybtEYgE8ESc/giphy.gif","https://media.giphy.com/media/d43LZUOH0H9te/giphy.gif","https://media.giphy.com/media/Y747L7ratlUgo/giphy.gif"]
-};?
+};
 const pergunta13 = {
   pergunta: "Who won the Oscarin 1994?",
   resposta_certa: "Schindler's List",
